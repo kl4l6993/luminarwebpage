@@ -1,0 +1,68 @@
+@keyframes anim{
+    0%{
+        transform: translateY(100px);
+    }}
+    
+.c img{
+    height: 600px;
+    opacity: 90%;
+}
+
+.c h1{
+    color: white;
+    text-align: left;
+    margin-top: -450px;
+    padding: 5px;
+    font-size: 300%;
+    animation: anim 800ms ease-in-out 0s 1;
+
+}
+.c p{
+    color: white;
+    text-align: left;
+    padding: 5px;
+    animation: anim 800ms ease-in-out 0s 1;
+}
+.c button{
+    color: white;
+    background-color: rgb(74, 4, 133);
+    height: 60px;
+    width: 160px;
+    text-align: center;
+    font-size: larger;
+    border: none;
+    border-radius: 30px;
+    margin-left: -800px;
+    animation: anim 800ms ease-in-out 0s 1;
+}
+.c button:hover{
+    color: white;
+    background-color: rgba(75, 4, 133, 0.493);
+    height: 60px;
+    width: 160px;
+    text-align: center;
+    border: none;
+    border-radius: 30px;
+    margin-left: -800px;
+}
+.cls{
+    margin-left:95%;
+    padding: 2px;
+}
+.modalbox h3{
+    text-align: center;
+}
+#n1{
+    border: none;
+    outline: none;
+    
+}
+#n4{
+    border: none;
+    outline: none;
+}
+.modalbox form
+{
+    padding: 10px;
+    border: none;
+}

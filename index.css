@@ -66,3 +66,36 @@
     padding: 10px;
     border: none;
 }
+
+.grids h2{
+    color: rgb(74, 4, 133);
+}
+.grids h6{
+    color: rgb(74, 4, 133);
+    font-weight: lighter;
+    font-weight: 400;
+}
+.grids p{
+    text-align: justify;
+}
+.grids button{
+    color: white;
+    background-color: rgb(74, 4, 133);
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    border: none;
+    border-radius: 30px;
+}
+.grids button:hover{
+    color: white;
+    background-color: rgba(75, 4, 133, 0.493);
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    border: none;
+}
+.grids img{
+    /* margin-top: 2px; */
+    height: 450px;
+}
